@@ -1,0 +1,12 @@
+name = "outerfaith/nbt_luau"
+version = "0.1.0"
+description = "An implementation of Minecraft's NBT format in Luau"
+authors = ["Outerfaith"]
+repository = "https://github.com/outerfaith/nbt-luau"
+license = "Apache-2.0"
+
+[target]
+environment = "luau"
+
+[indices]
+default = "https://github.com/pesde-pkg/index"

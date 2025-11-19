@@ -1,0 +1,11 @@
+{
+    "luau-lsp.sourcemap.autogenerate": false,
+    "luau-lsp.sourcemap.enabled": false,
+    "luau-lsp.fflags.enableNewSolver": true,
+    "luau-lsp.fflags.enableByDefault": true,
+    "luau-lsp.platform.type": "standard",
+    "editor.formatOnSave": true,
+    "[luau]": {
+        "editor.defaultFormatter": "JohnnyMorganz.stylua"
+    }
+}
